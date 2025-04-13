@@ -20,7 +20,7 @@
 
 ## 📊 Github Stats 
 <img align="right" src="https://img.shields.io/github/stars/maaduh?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/maaduh?tab=followers"><img align="right" src="https://img.shields.io/github/followers/maaduh?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/maaduh"><img align="right" src="https://komarev.com/ghpvc/?username=maaduh"></a>
-
+<br>
 
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=maaduh" width="600" /></a>
 </div>
